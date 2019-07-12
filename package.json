@@ -1,0 +1,21 @@
+{
+  "name": "render_time_calculator",
+  "version": "1.0.0",
+  "description": "tool to aproximate render time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.4.1",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.4",
+    "formidable": "^1.2.1",
+    "js-regression": "^1.0.10",
+    "line-reader": "^0.4.0",
+    "pdfjs-dist": "^2.0.943",
+    "pdfjs-dist-for-node": "^1.0.892-rc.1"
+  }
+}

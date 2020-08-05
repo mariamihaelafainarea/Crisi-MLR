@@ -11,7 +11,7 @@
   "dependencies": {
     "canvas": "^2.4.1",
     "express": "^4.16.4",
-    "express-fileupload": "^1.1.4",
+    "express-fileupload": "^1.1.9",
     "formidable": "^1.2.1",
     "js-regression": "^1.0.10",
     "line-reader": "^0.4.0",

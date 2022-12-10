@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.4.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-fileupload": "^1.1.4",
     "formidable": "^1.2.1",
     "js-regression": "^1.0.10",

@@ -15,7 +15,7 @@
     "formidable": "^1.2.1",
     "js-regression": "^1.0.10",
     "line-reader": "^0.4.0",
-    "pdfjs-dist": "^2.0.943",
+    "pdfjs-dist": "^2.16.105",
     "pdfjs-dist-for-node": "^1.0.892-rc.1"
   }
 }
